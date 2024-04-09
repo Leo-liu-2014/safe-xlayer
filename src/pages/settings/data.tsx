@@ -7,7 +7,7 @@ const Data: NextPage = () => {
   return (
     <>
       <Head>
-        <title>{'Safe{Wallet} – Settings – Data'}</title>
+        <title>{'X Layer – Settings – Data'}</title>
       </Head>
 
       <SettingsHeader />
