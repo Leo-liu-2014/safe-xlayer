@@ -166,8 +166,8 @@ const SafePrivacyPolicy = () => (
         &nbsp;released under LGPL-3.0.
       </li>
       <li>
-        &ldquo;{'X Layer'}&rdquo; refers to a web-based graphical user interface for Safe Accounts as well as a
-        mobile application on Android and iOS.
+        &ldquo;{'X Layer'}&rdquo; refers to a web-based graphical user interface for Safe Accounts as well as a mobile
+        application on Android and iOS.
       </li>
       <li>
         &ldquo;Safe Account Transaction&rdquo; is a Transaction of a Safe Account, authorized by a user, typically via
@@ -212,8 +212,8 @@ const SafePrivacyPolicy = () => (
     <h3 id="section-4">4. How We Use Personal Data</h3>
     <h4>4.1. When visiting our website and using {'X Layer'}</h4>
     <p>
-      When visiting our website or using {'X Layer'}, we may collect and process personal data. The data will be
-      stored in different instances
+      When visiting our website or using {'X Layer'}, we may collect and process personal data. The data will be stored
+      in different instances
     </p>
     <ol>
       <li>
@@ -412,9 +412,8 @@ const SafePrivacyPolicy = () => (
       <li>range of managed funds</li>
     </ol>
     <p>
-      In addition, we may take a recording of you while testing {'X Layer'} for internal and external use. The
-      basis for this collection and processing is our legitimate business interest in monitoring and improving our
-      services.
+      In addition, we may take a recording of you while testing {'X Layer'} for internal and external use. The basis for
+      this collection and processing is our legitimate business interest in monitoring and improving our services.
     </p>
     <p>
       The lawful basis for this processing is your consent as provided before participating in user experience research.
@@ -589,10 +588,10 @@ const SafePrivacyPolicy = () => (
     </p>
     <h4>5.5. Fingerprint/Touch ID/ Face ID</h4>
     <p>
-      We enable the user to unlock the {'X Layer'} mobile app via biometrics information (touch ID or face ID).
-      This is a feature of the operating system. We do not store any of this data. Instead, the API of the operating
-      system is used to validate the user input. If you have any further questions you should consult with your
-      preferred mobile device provider or manufacturer.
+      We enable the user to unlock the {'X Layer'} mobile app via biometrics information (touch ID or face ID). This is
+      a feature of the operating system. We do not store any of this data. Instead, the API of the operating system is
+      used to validate the user input. If you have any further questions you should consult with your preferred mobile
+      device provider or manufacturer.
     </p>
     <h4>5.6. Google Firebase</h4>
     <p>
