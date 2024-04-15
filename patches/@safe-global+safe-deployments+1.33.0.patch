@@ -1,5 +1,5 @@
 diff --git a/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/compatibility_fallback_handler.json b/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/compatibility_fallback_handler.json
-index d423f92..cb551bb 100644
+index d423f92..0139255 100644
 --- a/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/compatibility_fallback_handler.json
 +++ b/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/compatibility_fallback_handler.json
 @@ -44,7 +44,7 @@
@@ -7,12 +7,12 @@ index d423f92..cb551bb 100644
          "148": "0x017062a1dE2FE6b99BE3d9d37841FeD19F573804",
          "155": "0x017062a1dE2FE6b99BE3d9d37841FeD19F573804",
 -        "169": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",
-+        "196": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",
++        "196": "0x017062a1dE2FE6b99BE3d9d37841FeD19F573804",
          "204": "0x017062a1dE2FE6b99BE3d9d37841FeD19F573804",
          "246": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",
          "250": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",
 diff --git a/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/create_call.json b/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/create_call.json
-index 84006c7..66c7f99 100644
+index 84006c7..d68df6a 100644
 --- a/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/create_call.json
 +++ b/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/create_call.json
 @@ -44,7 +44,7 @@
@@ -20,12 +20,12 @@ index 84006c7..66c7f99 100644
          "148": "0xB19D6FFc2182150F8Eb585b79D4ABcd7C5640A9d",
          "155": "0xB19D6FFc2182150F8Eb585b79D4ABcd7C5640A9d",
 -        "169": "0x7cbB62EaA69F79e6873cD1ecB2392971036cFAa4",
-+        "196": "0x7cbB62EaA69F79e6873cD1ecB2392971036cFAa4",
++        "196": "0xB19D6FFc2182150F8Eb585b79D4ABcd7C5640A9d",
          "204": "0xB19D6FFc2182150F8Eb585b79D4ABcd7C5640A9d",
          "246": "0x7cbB62EaA69F79e6873cD1ecB2392971036cFAa4",
          "250": "0x7cbB62EaA69F79e6873cD1ecB2392971036cFAa4",
 diff --git a/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/gnosis_safe.json b/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/gnosis_safe.json
-index 21c5bfa..41c29e5 100644
+index 21c5bfa..8051f34 100644
 --- a/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/gnosis_safe.json
 +++ b/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/gnosis_safe.json
 @@ -44,7 +44,7 @@
@@ -33,12 +33,12 @@ index 21c5bfa..41c29e5 100644
          "148": "0x69f4D1788e39c87893C980c06EdF4b7f686e2938",
          "155": "0x69f4D1788e39c87893C980c06EdF4b7f686e2938",
 -        "169": "0xd9Db270c1B5E3Bd161E8c8503c55cEABeE709552",
-+        "196": "0xd9Db270c1B5E3Bd161E8c8503c55cEABeE709552",
++        "196": "0x69f4D1788e39c87893C980c06EdF4b7f686e2938",
          "204": "0x69f4D1788e39c87893C980c06EdF4b7f686e2938",
          "246": "0xd9Db270c1B5E3Bd161E8c8503c55cEABeE709552",
          "250": "0xd9Db270c1B5E3Bd161E8c8503c55cEABeE709552",
 diff --git a/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/gnosis_safe_l2.json b/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/gnosis_safe_l2.json
-index dcf6761..c46cd33 100644
+index dcf6761..08946a4 100644
 --- a/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/gnosis_safe_l2.json
 +++ b/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/gnosis_safe_l2.json
 @@ -44,7 +44,7 @@
@@ -46,12 +46,12 @@ index dcf6761..c46cd33 100644
          "148": "0xfb1bffC9d739B8D520DaF37dF666da4C687191EA",
          "155": "0xfb1bffC9d739B8D520DaF37dF666da4C687191EA",
 -        "169": "0x3E5c63644E683549055b9Be8653de26E0B4CD36E",
-+        "196": "0x3E5c63644E683549055b9Be8653de26E0B4CD36E",
++        "196": "0xfb1bffC9d739B8D520DaF37dF666da4C687191EA",
          "204": "0xfb1bffC9d739B8D520DaF37dF666da4C687191EA",
          "246": "0x3E5c63644E683549055b9Be8653de26E0B4CD36E",
          "250": "0x3E5c63644E683549055b9Be8653de26E0B4CD36E",
 diff --git a/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/multi_send.json b/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/multi_send.json
-index 3af5136..64ea205 100644
+index 3af5136..6737921 100644
 --- a/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/multi_send.json
 +++ b/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/multi_send.json
 @@ -44,7 +44,7 @@
@@ -59,12 +59,12 @@ index 3af5136..64ea205 100644
          "148": "0x998739BFdAAdde7C933B942a68053933098f9EDa",
          "155": "0x998739BFdAAdde7C933B942a68053933098f9EDa",
 -        "169": "0xA238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761",
-+        "196": "0xA238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761",
++        "196": "0x998739BFdAAdde7C933B942a68053933098f9EDa",
          "204": "0x998739BFdAAdde7C933B942a68053933098f9EDa",
          "246": "0xA238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761",
          "250": "0xA238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761",
 diff --git a/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/multi_send_call_only.json b/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/multi_send_call_only.json
-index 8aa9c29..5092a14 100644
+index 8aa9c29..e53ff59 100644
 --- a/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/multi_send_call_only.json
 +++ b/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/multi_send_call_only.json
 @@ -44,7 +44,7 @@
@@ -72,12 +72,12 @@ index 8aa9c29..5092a14 100644
          "148": "0xA1dabEF33b3B82c7814B6D82A79e50F4AC44102B",
          "155": "0xA1dabEF33b3B82c7814B6D82A79e50F4AC44102B",
 -        "169": "0x40A2aCCbd92BCA938b02010E17A5b8929b49130D",
-+        "196": "0x40A2aCCbd92BCA938b02010E17A5b8929b49130D",
++        "196": "0xA1dabEF33b3B82c7814B6D82A79e50F4AC44102B",
          "204": "0xA1dabEF33b3B82c7814B6D82A79e50F4AC44102B",
          "246": "0x40A2aCCbd92BCA938b02010E17A5b8929b49130D",
          "250": "0x40A2aCCbd92BCA938b02010E17A5b8929b49130D",
 diff --git a/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/proxy_factory.json b/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/proxy_factory.json
-index d3bc7ee..ec0c4ac 100644
+index d3bc7ee..f797d62 100644
 --- a/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/proxy_factory.json
 +++ b/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/proxy_factory.json
 @@ -44,7 +44,7 @@
@@ -85,12 +85,12 @@ index d3bc7ee..ec0c4ac 100644
          "148": "0xC22834581EbC8527d974F8a1c97E1bEA4EF910BC",
          "155": "0xC22834581EbC8527d974F8a1c97E1bEA4EF910BC",
 -        "169": "0xa6B71E26C5e0845f74c812102Ca7114b6a896AB2",
-+        "196": "0xa6B71E26C5e0845f74c812102Ca7114b6a896AB2",
++        "196": "0xC22834581EbC8527d974F8a1c97E1bEA4EF910BC",
          "204": "0xC22834581EbC8527d974F8a1c97E1bEA4EF910BC",
          "246": "0xa6B71E26C5e0845f74c812102Ca7114b6a896AB2",
          "250": "0xa6B71E26C5e0845f74c812102Ca7114b6a896AB2",
 diff --git a/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/sign_message_lib.json b/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/sign_message_lib.json
-index 2dee411..3e358e1 100644
+index 2dee411..6bc1f55 100644
 --- a/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/sign_message_lib.json
 +++ b/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/sign_message_lib.json
 @@ -44,7 +44,7 @@
@@ -98,12 +98,12 @@ index 2dee411..3e358e1 100644
          "148": "0x98FFBBF51bb33A056B08ddf711f289936AafF717",
          "155": "0x98FFBBF51bb33A056B08ddf711f289936AafF717",
 -        "169": "0xA65387F16B013cf2Af4605Ad8aA5ec25a2cbA3a2",
-+        "196": "0xA65387F16B013cf2Af4605Ad8aA5ec25a2cbA3a2",
++        "196": "0x98FFBBF51bb33A056B08ddf711f289936AafF717",
          "204": "0x98FFBBF51bb33A056B08ddf711f289936AafF717",
          "246": "0xA65387F16B013cf2Af4605Ad8aA5ec25a2cbA3a2",
          "250": "0xA65387F16B013cf2Af4605Ad8aA5ec25a2cbA3a2",
 diff --git a/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/simulate_tx_accessor.json b/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/simulate_tx_accessor.json
-index de3da81..090db66 100644
+index de3da81..4077ddf 100644
 --- a/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/simulate_tx_accessor.json
 +++ b/node_modules/@safe-global/safe-deployments/dist/assets/v1.3.0/simulate_tx_accessor.json
 @@ -44,7 +44,7 @@
@@ -111,7 +111,7 @@ index de3da81..090db66 100644
          "148": "0x727a77a074D1E6c4530e814F89E618a3298FC044",
          "155": "0x727a77a074D1E6c4530e814F89E618a3298FC044",
 -        "169": "0x59AD6735bCd8152B84860Cb256dD9e96b85F69Da",
-+        "196": "0x59AD6735bCd8152B84860Cb256dD9e96b85F69Da",
++        "196": "0x727a77a074D1E6c4530e814F89E618a3298FC044",
          "204": "0x727a77a074D1E6c4530e814F89E618a3298FC044",
          "246": "0x59AD6735bCd8152B84860Cb256dD9e96b85F69Da",
          "250": "0x59AD6735bCd8152B84860Cb256dD9e96b85F69Da",
